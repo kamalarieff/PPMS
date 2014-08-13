@@ -1,0 +1,61 @@
+body {
+	position: relative;
+    min-width: 1024px;
+    min-height: 600px;
+    /*height: 100%;*/
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 40px;
+}
+
+h1 {
+	text-align: center;
+}
+	
+div {
+	margin-top:10px;
+	border-style: solid;
+	border-width: 2px;
+	border-color: black;
+}
+
+#Banner {
+	position: relative;
+	/*height: 100%;*/
+	min-width: 1024px;
+	min-height: 70px;
+	float: top;
+}
+
+#Navigation {
+	/*padding: 5px;*/
+	/*overflow: hidden;*/
+	padding-left: 5px;
+	padding-top: 10px;
+	float: left;
+	min-height: 490px;
+	width: 160px;
+	/*height: 490px;*/
+	/*min-width: 160px;*/
+	/*height: 100%;*/
+	background-color: #def193;
+	text-align: center;
+	line-height: 200%;
+}
+
+#Main {
+	margin-left: 175px;
+	/*height: 500px;*/
+	min-height: 500px;
+
+}
+
+#Account {
+	margin-top:5px;
+	margin-right:5px;
+	float: right;
+}
+
+#test {
+	line-height: 300%;
+}
